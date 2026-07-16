@@ -17,7 +17,7 @@ Costco's broad cost-leadership model depends on in-store traffic and membership 
 
 | Metric | Value |
 |---|---|
-| Initial investment | $124.2M (within $150M cash budget, no debt) |
+| Initial investment | **$124.2M** (within $150M cash budget, no debt) |
 | Chargers deployed | ~2,510 across 81 Southeastern warehouses (~31 per location) |
 | Pricing | $0.37/kWh base rate (non-members) & $0.33/kWh member rate, mirroring the gas discount |
 | Year 1 sales | $53.5M, growing 13% annually |
