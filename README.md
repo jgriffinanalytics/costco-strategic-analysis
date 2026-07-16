@@ -4,7 +4,7 @@ Strategic consulting-style analysis recommending that Costco build a **backward-
 
 ## Business Problem
 
-Costco's broad cost-leadership model depends on in-store traffic and membership loyalty, but the company faces geographic revenue concentration (86% of revenue from the U.S. and Canada) and rising consumer expectations around EVs and digital convenience. The question: is there a strategic investment that reinforces Costco's core membership value proposition, the way its gasoline business does, while simulataneously creating a new revenue stream?
+Costco's broad cost-leadership model depends on in-store traffic and membership loyalty, but the company faces geographic revenue concentration (86% of revenue from the U.S. and Canada) and rising consumer expectations around EVs and digital convenience. The question: is there a strategic investment that reinforces Costco's core membership value proposition, the way its gasoline business does, while simultaneously creating a new revenue stream?
 
 ## Approach
 
