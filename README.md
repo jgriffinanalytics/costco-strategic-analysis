@@ -45,7 +45,7 @@ Costco's broad cost-leadership model depends on in-store traffic and membership 
 
 ## Note
 
-Team project completed as part of my strategic management coursework at UCF.
+Team project completed as part of my strategic management coursework at UCF. 
 
 ---
 
