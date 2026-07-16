@@ -11,7 +11,7 @@ Costco's broad cost-leadership model depends on in-store traffic and membership 
 1. **Strategy diagnosis:** Assessed Costco's mission, cost-leadership model, and competitive position using SWOT, PESTEL, Porter's Five Forces, and a strategic group map against Sam's Club and BJ's Wholesale.
 2. **Recommendation design:** A three-phase, backward-integrated rollout. Costco owns and operates its chargers (private-labeled, no third-party royalties) rather than outsourcing to ChargePoint or Tesla, mirroring the control and margin logic of its Kirkland Signature and gasoline strategies.
 3. **Financial modeling (Excel):** Built a 10-year discounted cash flow model (DCF) utilizing calculated assumptions. Assumptions were derived from Wawa's EV deployment and scaled by square footage, Tesla Supercharger throughput data for revenue, Florida electricity rates for variable costs, straight-line depreciation, and 21% tax. Final metrics are NPV and IRR.
-4. **Sensitivity analysis:** Stress-tested the model on sales capture rate and growth assumptions; even the worst-case scenario (40% of target sales, 8% growth) keeps the project economically viable.
+4. **Sensitivity analysis:** Conducted best/worst-case scenarios for sales capture rate and growth assumptions; even the worst-case scenario (40% of target sales, 8% growth) keeps the project economically viable.
 
 ## Key Numbers
 
