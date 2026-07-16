@@ -35,13 +35,13 @@ Costco's broad cost-leadership model depends on in-store traffic and membership 
 
 ## Tools
 
-**Excel** — 10-year DCF, NPV/IRR analysis, scenario/sensitivity tables. Research compiled from 10-K filings, GlobalData and MarketLine industry profiles, Tesla quarterly reports, and Pew Research consumer data.
+**Excel**: 10-year DCF, NPV/IRR analysis, scenario/sensitivity tables. Research compiled from 10-K filings, GlobalData and MarketLine industry profiles, Tesla quarterly reports, and Pew Research consumer data.
 
 ## Repository Contents
 
-- [`costco_financial_analysis.xlsx`](costco_financial_analysis.xlsx) — full financial model (pro forma, assumptions, and scenario analysis tabs)
-- [`costco_recommendation_final_report.pdf`](costco_recommendation_final_report.pdf) — complete written report (strategy frameworks, recommendation, financial justification, risk analysis)
-- [`images/`](images/) — cash flow visualization generated from the model
+- [`costco_financial_analysis.xlsx`](costco_financial_analysis.xlsx): full financial model (pro forma, assumptions, and scenario analysis tabs)
+- [`costco_recommendation_final_report.pdf`](costco_recommendation_final_report.pdf): complete written report (strategy frameworks, recommendation, financial justification, risk analysis)
+- [`images/`](images/): cash flow visualization generated from the model
 
 ## Note
 
