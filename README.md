@@ -31,7 +31,7 @@ Costco's broad cost-leadership model depends on in-store traffic and membership 
 - **The strategy extends what already works.** EV charging takes Costco's proven gas playbook one step further: a member-discounted commodity that drives trips, deepens loyalty, and monetizes existing real estate. Average charge time (30-60 min) matches average shop time, allowing existing infrastructure and the retail model to reinforce each other.
 - **Backward integration is a key choice.** Private-labeling chargers costs ~40% more upfront per unit ($49.5K vs. $34.5K) but eliminates royalties and keeps pricing control in-house. Kirkland Signature employs this integration logic currently. 
 - **Membership-model supports EV implementation.** A tiered charging rate converts this project into a retention tool that competitors without a membership model can't replicate. EV chargers are just another value-add for Costco members.
-- **The project survives pessimistic outcomes.** Sensitivity analysis shows the project exceeds break-even even when sales capture and growth assumptions are cut roughly in half. This recommendation doesn't depend on best-case adoption.
+- **The project survives pessimistic outcomes.** Sensitivity analysis shows the project exceeds break-even even when sales capture and growth assumptions are cut roughly in half. This recommendation doesn't depend on best-case scenarios.
 
 ## Tools
 
